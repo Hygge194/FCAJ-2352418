@@ -31,7 +31,7 @@ Giải pháp cung cấp một bộ khung backend hoàn chỉnh, có thể sẵn 
 
 ### 3. Kiến trúc giải pháp
 
-THÊM HÌNH SAUUUU
+![Sơ đồ kiến trúc](/images/5-Workshop/5.1-Workshop-overview/diagram1.jpg)
 
 **Dịch vụ AWS sử dụng chính**
 - **Amazon VPC**: Thiết lập mạng riêng ảo (Public/Private Subnets) cô lập cơ sở dữ liệu.
