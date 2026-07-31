@@ -68,4 +68,4 @@ I hope sharing these lessons helps you avoid invisible network failures and opti
 
 ### Post Information
 *   **Facebook Group:** AWS Study Group
-*   **Original Post Link:** [Facebook Post Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2229330564498570/)
+*   **Original Post Link:** [Facebook Post Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2230167921081501/?rdid=OWE359AjcB0vTUf2#)
