@@ -68,4 +68,4 @@ Hi vọng những chia sẻ thực tế này sẽ giúp mọi người tránh đ
 
 ### Thông tin bài đăng
 *   **Nhóm Facebook:** AWS Study Group
-*   **Link bài đăng gốc:** [Facebook Post Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2229330564498570/)
+*   **Link bài đăng gốc:** [Facebook Post Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2230167921081501/?rdid=OWE359AjcB0vTUf2#)
