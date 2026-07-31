@@ -64,4 +64,4 @@ Những trải nghiệm này đều là những bài học thực tế mình ph�
 
 ### Thông tin bài đăng
 *   **Nhóm Facebook:** AWS Study Group
-*   **Link bài đăng gốc:** [Facebook Post Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2229330564498570/)
+*   **Link bài đăng gốc:** [Facebook Post Link](https://www.facebook.com/share/p/18wTHQFBVC/?)
