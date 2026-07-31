@@ -64,4 +64,4 @@ These lessons were learned the hard way. If you have run into similar traps on A
 
 ### Post Information
 *   **Facebook Group:** AWS Study Group
-*   **Original Post Link:** [Facebook Post Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2229330564498570/)
+*   **Original Post Link:** [Facebook Post Link](https://www.facebook.com/share/p/18wTHQFBVC/?)
